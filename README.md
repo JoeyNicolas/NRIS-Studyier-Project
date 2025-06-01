@@ -112,11 +112,12 @@ Successfully processed document.pdf with 1250 unique terms
 
 Top 10 matching documents for 'machine learning':
 ----------------------------------------------------------
- 1. ai_research.pdf (Score: 2.3456)
- 2. data_science.pdf (Score: 1.8932)
- 3. python_guide.pdf (Score: 1.2341)
+1. irgendwas_research.pdf (Score: 2.3456)
+2. mechiiinlernin_tutorial.pdf (Score: 1.8932)
+3. data_science_4_dummies.pdf (Score: 1.2341)
  ...
 ```
+
 
 ## Performance Considerations
 
@@ -144,6 +145,9 @@ Top 10 matching documents for 'machine learning':
 - `example_usage.py`: Example script showing programmatic usage
 - `requirements.txt`: Python dependencies
 - `README.md`: This documentation file
+## Author
+
+Joé Nicolas Heidemann
 
 ## License
 
